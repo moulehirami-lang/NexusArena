@@ -47,5 +47,7 @@ class Participation {
 
         return $stmt;
     }
+   
+    
 }
 ?>
